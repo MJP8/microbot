@@ -1,0 +1,22 @@
+{
+    "name": "Micro:Bot",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "motobit": "github:sparkfun/pxt-moto-bit#v0.0.4",
+        "servo": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
